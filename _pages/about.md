@@ -40,7 +40,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fuel 2025</div><img src='images/Fuel 2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fuel 2025</div><img src='images/fuel-L.tif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Linxuan Li`, Qiangqiang Ren, Shaobo Yang, et al. Experimental study on the evolution of inorganic composition during purification of high-alkali coal at different temperatures[J]. *Fuel*, 2025, 398: 135540. (JCR:Q1; IF:6.7)
@@ -54,7 +54,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">Fuel 2025</div>
-      <img src='images/fuel2025.svg' alt="sym" width="100%">
+      <img src='images/fuel-Y.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -68,7 +68,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">Constr. Build. Mater. 2025</div>
-      <img src='images/constrbuildmater2025.svg' alt="sym" width="100%">
+      <img src='images/constrbuildmater2025.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
