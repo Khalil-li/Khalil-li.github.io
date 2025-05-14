@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于中国北京的 中国科学院大学 工程热物理研究所，我的导师是任强强研究员。本科毕业于山东济南的 山东大学 能源与动力工程学院（现核科学与能源动力学院）。包括合著，我已经发表 5 篇学术论文
+大家好，我是中国科学院工程热物理研究所的一名博士研究生。我的导师是任强强研究员。
  <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=opyHGJQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -30,13 +30,13 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education (学历)
 - *2022.06 - 2027.06*, <a href="http://www.etp.ac.cn/"><img class="svg" src="/images/IET_logo.png" width="23pt"></a> 中国科学院 工程热物理研究所, 北京, 推免直博 
 - *2018.09 - 2022.06*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="20pt"></a> 山东大学 能源与动力工程学院, 山东济南, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Paper (论文)
 
 ### 英文
 ---
@@ -96,15 +96,20 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- *2022.06* 获得 山东省优秀毕业生  
+# 🏅 Awards (荣誉奖项)
+- *2022.03* 获得 山东省优秀毕业生  
+- *2022.03* 获得 山东大学优秀毕业生  
+- *2023.11* 获得 中国科学院工程热物理研究所年度奖学金  
+
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ Conference (学术会议)
 - *2025.04*, The 25th International Conference on Fluidized Bed Conversion (FBC25), 江苏南京, 口头报告
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- *2018.05 - 2020.02*, X, X
+# 💻 Work (工作实习)
+- *2021.02 - 2021.02*, 泰山区财源街道办事处办公室, 山东泰安
+- *2021.06 - 2021.06*, 山东大学千佛山校区生产实习(1000MW超超临界火电仿真机组), 山东济南
+- *2021.06 - 2021.07*, 华电章丘发电有限公司, 山东济南
