@@ -31,8 +31,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.06 - 2027.06*, <a href="http://www.etp.ac.cn/"><img class="svg" src="/images/IET_logo.svg" width="23pt"></a> 中国科学院 工程热物理研究所, 北京, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="20pt"></a> 山东大学 能源与动力工程学院, 山东济南, 本科
+- *2022.06 - 2027.06*, <a href="http://www.etp.ac.cn/"><img class="svg" src="/images/IET_logo.jpg" width="23pt"></a> 中国科学院 工程热物理研究所, 北京, 推免直博 
+- *2012.09 - 2016.06*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.jpg" width="20pt"></a> 山东大学 能源与动力工程学院, 山东济南, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
