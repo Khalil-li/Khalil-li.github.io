@@ -32,7 +32,7 @@ redirect_from:
 
 # 🎓 学历
 - *2022.06 - 2027.06*, <a href="http://www.etp.ac.cn/"><img class="svg" src="/images/IET_logo.png" width="23pt"></a> 中国科学院 工程热物理研究所, 北京, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="20pt"></a> 山东大学 能源与动力工程学院, 山东济南, 本科
+- *2018.09 - 2022.06*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="20pt"></a> 山东大学 能源与动力工程学院, 山东济南, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -40,7 +40,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fuel 2025</div><img src='images/fuel-L.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fuel 2025</div><img src='images/fuel-L.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Linxuan Li`, Qiangqiang Ren, Shaobo Yang, et al. Experimental study on the evolution of inorganic composition during purification of high-alkali coal at different temperatures[J]. *Fuel*, 2025, 398: 135540. (JCR:Q1; IF:6.7)
